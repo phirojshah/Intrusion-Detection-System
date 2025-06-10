@@ -1,4 +1,4 @@
-# Home Intrusion Detection System
+# Home Intrusion Detection System.
 
 A DIY security system that detects motion and instantly emails snapshots of potential intruders to your inbox. Built with ESP32-CAM and PIR motion sensor for reliable home monitoring.
 
